@@ -1,3 +1,6 @@
+# Quiz App With Admin Feature
+This project has an admin panel which can make quizes and assign them to users, and a User panel where users can login and give their assign quizzes. Users and admin can also see marks of each Quiz and Student respectively. Credentials Admin username: : "admin", Admin password: "admin123".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
